@@ -1,6 +1,6 @@
 **Taxi Fare Prediction Using Machine Learning**
 
-This repository contains code for building a regression model to predict taxi fares using machine learning techniques. The model is trained on a dataset containing features such as pickup and dropoff locations, timestamps, and other relevant information.
+This repository contains code for building a regression model to predict taxi fares using machine learning techniques. The model is trained on a dataset containing features such as pickup and dropoff timestamps, and other relevant information.
 
 ## Usage
 
